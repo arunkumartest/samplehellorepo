@@ -1,1 +1,2 @@
 this is the first time that i am practicing git diff commands
+edited this file to observe git diff for the 2 commits
