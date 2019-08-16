@@ -1,5 +1,5 @@
 this is the first time that i am practicing git diff commands
 
-edited this file second time to observe git diff for the 2 commits
+deleted "edited this file second time to observe git diff for the 2 commits"
 
 edited this file first time to observe git diff for the 2 commits
